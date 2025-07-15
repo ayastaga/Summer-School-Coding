@@ -5,4 +5,4 @@ This is a repo with all the code I built for my summer school computer science c
 2. Pseudocode; just practice with writing pseudocode and translating it
 3. Personality test; more pseudocode logic for developing a personality test
 4. Tic-Tac-Toe; built a simple tic-tac-toe game using Tkinter
-5. Virtual-Medicine-Home; full-stack website built using PHP
+5. Hospital-Management-System; as the name implies, a full-stack website built using PHP for administrative purposes
