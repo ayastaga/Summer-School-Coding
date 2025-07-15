@@ -1,4 +1,2 @@
 # virtual-medicine-home
-Ahaan, Aryan, Hamzah, and Agastya's project
-
-Project is essentially a multi-page website which can be used for hospital management
+A multi-page full-stack website which uses PHP to create an administrative system for hospital management. Through this, you can manage a myriad of patients and their information.
