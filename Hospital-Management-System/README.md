@@ -9,6 +9,7 @@ A multi-page full-stack website which uses PHP to create an administrative syste
 
 4. Run the script http://localhost/Hospital_Management_System
 
+Note: In order to run PHPMyAdmin and set up the database, you need to install XAMPP
 
 **LOGIN DETAILS** 
 
