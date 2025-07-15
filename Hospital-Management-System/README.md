@@ -7,7 +7,7 @@ A multi-page full-stack website which uses PHP to create an administrative syste
 
 3. Import hospital.sql file (provided in the database folder in the zip package)
 
-4.Run the script http://localhost/Hospital_Management_System
+4. Run the script http://localhost/Hospital_Management_System
 
 
 **LOGIN DETAILS** 
